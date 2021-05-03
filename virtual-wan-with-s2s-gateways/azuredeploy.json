@@ -33,7 +33,7 @@
             "metadata": {
                 "description": "Scale Units for Site-to-Site (S2S) VPN Gateway in the second Hub"
             }
-        },
+        }
     },
     "variables": {
         "vwan_cfg": {
