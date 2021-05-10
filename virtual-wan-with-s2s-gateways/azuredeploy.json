@@ -41,37 +41,37 @@
         },
         "virtual_hub1_cfg": {
             "name": "vhubvnet1",
-            "addressSpacePrefix": "192.168.0.0/24",
+            "addressSpacePrefix": "10.80.2.0/24",
             "Hub1_P2SvpnClientAddressPoolPrefix": "10.4.3.0/24"
         },
         "virtual_hub2_cfg": {
             "name": "vhubvnet2",
-            "addressSpacePrefix": "192.168.1.0/24",
+            "addressSpacePrefix": "10.81.2.0/24",
             "Hub2_P2SvpnClientAddressPoolPrefix": "10.5.3.0/24"
         },
         "vnet1_cfg": {
             "name": "VNET1",
-            "addressSpacePrefix": "10.1.0.0/24",
+            "addressSpacePrefix": "10.80.32.0/24",
             "subnetName": "subnet1",
-            "subnetPrefix": "10.1.0.0/24"
+            "subnetPrefix": "10.80.32.0/24"
         },
         "vnet2_cfg": {
             "name": "VNET2",
-            "addressSpacePrefix": "10.1.1.0/24",
+            "addressSpacePrefix": "10.80.33.0/24",
             "subnetName": "subnet1",
-            "subnetPrefix": "10.1.1.0/24"
+            "subnetPrefix": "10.80.33.0/24"
         },
         "vnet3_cfg": {
             "name": "VNET3",
-            "addressSpacePrefix": "10.2.0.0/24",
+            "addressSpacePrefix": "10.81.32.0/24",
             "subnetName": "subnet1",
-            "subnetPrefix": "10.2.0.0/24"
+            "subnetPrefix": "10.81.32.0/24"
         },
         "vnet4_cfg": {
             "name": "VNET4",
-            "addressSpacePrefix": "10.2.1.0/24",
+            "addressSpacePrefix": "10.81.33.0/24",
             "subnetName": "subnet1",
-            "subnetPrefix": "10.2.1.0/24"
+            "subnetPrefix": "10.81.33.0/24"
         }
     },
     "resources": [
