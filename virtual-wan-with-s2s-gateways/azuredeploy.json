@@ -5,19 +5,19 @@
         "vWANname": {
             "type": "string",
             "metadata": {
-                "description": "Azure Virtual WAN Name"
+                "description": "Virtual WAN Name"
             }
         },
         "hub1_location": {
             "type": "string",
             "metadata": {
-                "description": "Azure Region for the first Hub"
+                "description": "Region for the first Hub"
             }
         },
         "hub2_location": {
             "type": "string",
             "metadata": {
-                "description": "Azure Region for the second Hub"
+                "description": "Region for the second Hub"
             }
         },
         "Hub1_S2SvpnGatewayScaleUnit": {
